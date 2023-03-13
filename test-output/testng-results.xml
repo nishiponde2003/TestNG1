@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Running TC2]]>
+    </line>
+    <line>
+      <![CDATA[Running TC3]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-22T15:17:09 IST" name="Suite" finished-at="2022-12-22T15:17:09 IST" duration-ms="91">
+    <groups>
+    </groups>
+    <test started-at="2022-12-22T15:17:09 IST" name="Test" finished-at="2022-12-22T15:17:09 IST" duration-ms="91">
+      <class name="DisableTC.UsingTestNGFlag">
+        <test-method signature="TC2()[pri:0, instance:DisableTC.UsingTestNGFlag@4738a206]" started-at="2022-12-22T15:17:09 IST" name="TC2" finished-at="2022-12-22T15:17:09 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running TC2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method signature="TC3()[pri:0, instance:DisableTC.UsingTestNGFlag@4738a206]" started-at="2022-12-22T15:17:09 IST" name="TC3" finished-at="2022-12-22T15:17:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running TC3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+      </class> <!-- DisableTC.UsingTestNGFlag -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
